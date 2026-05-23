@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Shivraj
 
-<!--
-**meranaamshivraj/meranaamshivraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I have completed a 1-year internship in Data Analytics and currently looking for Data Analyst / Business Analyst opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- MS Excel
+- SQL
+- Python
+- Power BI
+- Data Cleaning
+- Data Visualization
+
+---
+
+## Tools & Technologies
+
+| Tool | Skill Level |
+|---|---|
+| Excel | Advanced |
+| SQL | Intermediate |
+| Python | Intermediate |
+| Power BI | Intermediate |
+
+---
+
+## Projects
+- Sales Dashboard Analysis
+- SQL Customer Insights
+- Python Data Cleaning
+- Excel Business Reports
+
+---
+
+## Currently Learning
+- Advanced SQL
+- Power BI Dashboard Design
+- Python for Data Analysis
+
+---
+
+## Contact Me
+- LinkedIn:
+- Email:
+
+Thanks for visiting my profile 🚀
