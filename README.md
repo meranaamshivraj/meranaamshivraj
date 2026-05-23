@@ -26,11 +26,7 @@ I have completed a 1-year internship in Data Analytics and currently looking for
 ---
 
 ## Projects
-- Sales Dashboard Analysis
-- SQL Customer Insights
-- Python Data Cleaning
-- Excel Business Reports
-
+- Customer Shopping Behaviour data
 ---
 
 ## Currently Learning
