@@ -19,9 +19,9 @@ I have completed a 1-year internship in Data Analytics and currently looking for
 | Tool | Skill Level |
 |---|---|
 | Excel | Advanced |
-| SQL | Intermediate |
+| SQL | Advanced |
 | Python | Intermediate |
-| Power BI | Intermediate |
+| Power BI | Advanced |
 
 ---
 
